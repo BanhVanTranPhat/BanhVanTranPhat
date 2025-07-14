@@ -39,10 +39,6 @@ Hi! 👋 I'm **Phat Banh**, a final-year Software Engineering student at Van Lan
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=BanhVanTranPhat&icon=2&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=BanhVanTranPhat&icon=2&color=0" alt="Profile Visit Counter">
-  </a>
-</p>
+  [![](https://visitcount.itsvg.in/api?id=BanhVanTranPhat&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ---
