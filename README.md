@@ -1,5 +1,4 @@
-# �� Hi there, I'm Banh Van Tran Phat
-
+# Welcome to My GitHub! I'm Banh Van Tran Phat  
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Software+Engineering+Student;Passionate+Learner" alt="Typing SVG" />
 </div>
@@ -43,7 +42,7 @@
 
 ---
 
-## 🌐 Current Projects
+## 🌐 Selected Projects
 
 - 🌐 **Manga Website** - React + TypeScript + Vite
 - 🎬 **Movie Website** - React + API Integration
@@ -100,7 +99,6 @@
 
 ---
 
-<div align="center">
-  <p><em>Turning ideas into interactive reality</em></p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BanhVanTranPhat&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+</p>
